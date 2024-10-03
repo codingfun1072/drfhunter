@@ -1,9 +1,9 @@
 {
     "TOTAL_MEMORY": 1073741824,
     "dataUrl": "https://raw.githubusercontent.com/codingfun1072/drfhunter/b512be7/dh.data.unityweb",
-    "asmCodeUrl": "https://cdn.jsdelivr.net/gh/codingfun1072/drfhunter@b512be7/dh.asm.code.unityweb",
-    "asmMemoryUrl": "https://cdn.jsdelivr.net/gh/codingfun1072/drfhunter@b512be7/dh.asm.memory.unityweb",
-    "asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/codingfun1072/drfhunter@b512be7/dh.asm.framework.unityweb",
+    "asmCodeUrl": "dh.asm.code.unityweb",
+    "asmMemoryUrl": "dh.asm.memory.unityweb",
+    "asmFrameworkUrl": "dh.asm.framework.unityweb.js",
     "backgroundUrl": "",
     "splashScreenStyle": "Dark",
     "backgroundColor": "#111111",
